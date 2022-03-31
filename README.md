@@ -1,2 +1,1 @@
-# zero_day
 vagrant
